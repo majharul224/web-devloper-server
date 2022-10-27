@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "price": 420,
+    "img": "https://i.ibb.co/2KjBqdc/python.png",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  },
+
+  {
+    "id": 2,
+    "name": "Tailwind",
+    "price": 380,
+    "img": "https://i.ibb.co/CMjGR58/tailwind.png",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  },
+
+  {
+    "id": 3,
+    "name": "Bootstrap",
+    "price": 380,
+    "img": "https://i.ibb.co/2hdY3Cm/bootstrap.jpg",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  },
+
+  {
+    "id": 4,
+    "name": "React",
+    "price": 480,
+    "img": "https://i.ibb.co/SNBJCQM/react.png",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  },
+
+  {
+    "id": 5,
+    "name": "Html",
+    "price": 400,
+    "img": "https://i.ibb.co/DbbQwX4/html.png",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  },
+
+  {
+    "id": 6,
+    "name": "Javascript",
+    "price": 500,
+    "img": "https://i.ibb.co/GdRLLcF/javascript.png",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  },
+
+  {
+    "id": 7,
+    "name": "Css",
+    "price": 390,
+    "img": "https://i.ibb.co/GW9VVZR/css.jpg",
+    "ditels": "Our institute is a reputed institute, here the work of web developer is taught. Every student is taught with importance"
+  }
+]
