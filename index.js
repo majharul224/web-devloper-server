@@ -23,5 +23,5 @@ app.get('/course-categories/:id', (req, res)=>{
 
 
 app.listen(port, ()=>{
-    console.log("server corse loder")
+    console.log("server corse loder", port)
 })
